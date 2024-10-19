@@ -9,4 +9,16 @@
     text-align: center;
     background-color: white;
     padding: 5px;
+    line-height: 75px;
+    font-size: 30px;
+    border: 1px solid black;
 }
+
+.cella-8 {
+    grid-area: 3 / 2 / 4 / 4;
+}
+
+.cella-9 {
+    grid-area: 3 / 2 / 4 / 4;
+}
+
